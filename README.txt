@@ -1,10 +1,4 @@
-oop2 - PROJECT - README
-
-Name:Nethanel Gak
-Id: 1728152
-
-Name: David Nyssen
-Id: 207092511
+Super Mario recreation project - README
 
 WATCH GAMEPLAY ON YOUTUBE:
 
@@ -80,17 +74,5 @@ Data structures:
 1- Vector of MovingElements.
 2- Vector of StaticsElements.
 
-------------------------------------
 
-Specific algorithm:
-
-No specific algorithm.
-
-------------------------------------
-
-Bugs:
-
-Looks fine.
-
-------------------------------------
 
