@@ -1,2 +1,2 @@
 # Super-Mario-C-
-Super Mario recreation priject in C++
+Super Mario recreation project in C++
